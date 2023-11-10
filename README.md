@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @HARSH_45
 
-Welcome to my GitHub profile! I'm Harsh, and I'm passionate about exploring the realms of technology. Here's a bit about my interests and what I'm up to:
+Welcome to my GitHub profile! I'm Harshal, and I'm passionate about exploring the realms of technology. Here's a bit about my interests and what I'm up to:
 
 - 👀 I’m interested in:
   - Artificial Intelligence
