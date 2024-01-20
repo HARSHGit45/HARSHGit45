@@ -1,4 +1,4 @@
-
+![logo](https://github.com/HARSHGit45/HARSHGit45/blob/main/gt.jpg)
 <h3 align="center">I'm HarshaL</h3>
 <h3 align="center">I'm passionate about exploring the realms of technology</h3>
 
