@@ -1,6 +1,7 @@
-![logo](https://github.com/HARSHGit45/HARSHGit45/blob/main/gt.jpg)
+
 <h3 align="center">I'm HarshaL</h3>
 <h3 align="center">I'm passionate about exploring the realms of technology</h3>
+## 
 
 <img align="right" alt="coding" width="400" src="https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=600&name=ai%20gif.gif">
 
